@@ -1,7 +1,7 @@
 <div align="center">
 
 
-Background GIF by [Aliciel](https://www.pinterest.com/pin/12173861487328604/) on [Pinterest](https://www.pinterest.com/).
+Background GIF by [Aliciel]((https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif)) on [Pinterest](https://www.pinterest.com/).
 
 <div>
 # 💫About Me :
