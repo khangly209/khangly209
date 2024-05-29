@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![Background GIF](.image/618f083c61a7460ce0a6064319af41bd.gif)
+![Background GIF](618f083c61a7460ce0a6064319af41bd.gif)
 
 <div>
 # 💫About Me :
