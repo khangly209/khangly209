@@ -1,3 +1,4 @@
+Background GIF by [Aliciel](https://www.pinterest.com/pin/12173861487328604/) on [Pinterest](https://www.pinterest.com/).
 # 💫About Me :
 Xin chào! 👋
 Tôi là [Lý Thế Khang], một người đam mê về xử lý dữ liệu và phân tích thông tin.
